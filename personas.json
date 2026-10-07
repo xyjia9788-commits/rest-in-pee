@@ -1,0 +1,18 @@
+{
+  "gtm": {
+    "label": "AI GTM job seeker (Priscilla)",
+    "who": "I'm Priscilla. I come from finance and health insurance, where I made outbound calls every day and did some social media marketing. Now I want a go-to-market role (SDR, BDR, partnerships) at an AI company, ideally a big one like Google, Microsoft or IBM, or a fast-growing AI startup. I'm up at 6, run most mornings and can be out the door by 7:30 am; I like a real breakfast after the run. I live in Jersey City by Journal Square, so I ride the PATH, and PATH trains get sparse after 9:30 pm, plus I sleep early, so I want to be home by 9:30. I'd love one morning coffee with finance or fintech people, something substantive in the middle of the day, and in the evening a hands-on build or demo event where I can join a team and pitch ideas. I want to swap LinkedIn with at least a few people and set up a follow-up meal."
+  },
+  "investor": {
+    "label": "Seed investor (Maya)",
+    "who": "I'm Maya Chen, a seed-stage investor at a 12-person AI-focused fund. I write $500K-$2M first checks into founders building AI agents for enterprise workflows, especially security, finance ops and sales. I live in Park Slope, Brooklyn, near the 7th Ave F/G station. Mornings are my best time: I like founder breakfasts and small coffee circles, not loud mixers. I have partner meetings in Flatiron from 1 pm to 3:30 pm, so I can't book anything then. In the evening I want one smaller dinner or fireside with operators from fast-growing startups, and I'd skip hackathons. I don't drink much, I want to be home by 10:30 pm, and I'd rather take one train than two."
+  },
+  "builder": {
+    "label": "AI builder (Diego)",
+    "who": "I'm Diego Ramirez, a full-stack engineer at a fintech, building a side project with AI agents on nights and weekends. I live in Long Island City near Court Square (7, E, M, G). I work remote, so I'm free from 10 am, and I'm a night owl, fine to be out until 11 pm. I want hands-on sessions: hackathons, build days, demo nights, technical workshops on agents, security or world models. I'd like to meet developer-relations people from big AI and cloud companies (Google, Microsoft, AWS) and a possible technical co-founder. I bike or take the subway, and I hate wasting time on transfers. Talks without code bore me."
+  },
+  "designer": {
+    "label": "Product designer (Aisha)",
+    "who": "I'm Aisha Okafor, a product designer at a branding agency, moving into AI product design. I live in Harlem near 125th St (A, B, C, D). I want design-engineering panels, creative communities and talks about how AI changes craft, plus at least one place to show my portfolio to design leads at bigger tech companies. I prefer calm, smaller events where I can actually talk, and I'm vegetarian. I can take a long lunch walk between events. I'm free all day but want to be home by 9:30 pm, and I'd rather walk 15 minutes than add a transfer."
+  }
+}
